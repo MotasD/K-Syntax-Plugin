@@ -1,0 +1,28 @@
+{
+	"variables": {
+	},
+	"globals": {
+		"foreground": "#00AA00",
+		"background": "#0AAA00",
+		"accent": "#00AA0A",
+		"selection": "#00AAAA",
+	},
+	"rules": [
+		{
+			"scope": "keyword.control.example-c",
+			"foreground": "#00FF00",
+		},
+		{
+			"scope": "variable",
+			"foreground": "#00FF00",
+		},
+		{
+			"scope": "keyword",
+			"foreground": "",
+		},
+		{
+			"scope": "constant",
+			"foreground": "",
+		},
+	]
+}
